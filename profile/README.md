@@ -2,8 +2,6 @@
 
 ## Multi-view workflow automation for volumetric post-production
 
-Tired of juggling multiple 3D tools? Lightfielder is a hybrid computer-vision IDE/DCC toolset that unifies volumetric content creation from a single workspace. 
+Lightfielder (aka "LF") is an LGPL-licensed open-source hybrid computer-vision IDE and digital content creation (DCC) toolset developed by Andrew Hazelden. Designed to unify volumetric video content creation and XR post-production. The current Lightfielder public beta release cycle is aimed at a professional audience that is already working in the 3D graphics and immersive media sector.
 
-## Free Open-Source License Terms
-
-Lightfielder is cross-platform compatible and works across Linux, macOS, and Windows. The software is released under a permissive free open-source LPGPL/GPL license. Attribution is required and must be maintained on forks of the Lightfielder project's codebase and scripts.
+<img src="logo.svg" width="150" alt="Logo">
