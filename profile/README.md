@@ -6,7 +6,7 @@ Lightfielder (aka "LF") is an LGPL-licensed open-source hybrid computer-vision I
 
 <img src="logo.svg" width="150" alt="Logo">
 
-## Am I Lightfielder?
+## Am I A Lightfielder?
 
 You might be. Are you a tech artist, photographer, or filmmaker working with multi-view content in the plenoptic imaging domain? Do you frequently capture or process lightfield data? If YES, then you can easily use the colloquial term "Lightfielder" to describe your craft.
 
